@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/libs/libprotobuf-java-2.6-nano.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2ba3ce68542db5a4b672a22606e4fd4631ed5c4f">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/libprotobuf-java-2.6-nano-71f6bd34ef816f2c30a1990ea5d8a376929d8b4b.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/classes-9cbc6e99e616e11cdb428afb961c50826f427b31.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/exploded-aar/io.intercom.android/intercom-sdk-gcm/1.1.16/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3df9290b1d096a6034fff4d09e6260244b61466a">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/classes-aa86668e21383b5e4422fb71276e4dd984f2f17d.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-d3c46220ad424cdf3f698a77cb230bf27d6fc905.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/exploded-aar/io.intercom.android/intercom-sdk/1.1.16/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f5a2b27109f0d1bb30ecfcf35cc290cddd4cfe9b">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/classes-e99af0a9fe52c9ee6b0aefb3a0beff94df56b471.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/classes-479ea85b070f0c2e1c6e178c2cd97278c019fa49.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9-06b7ec43b5c60e2d0583eb15819ec407d50f7b37.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/classes-809b70a7b4e5e0c15e4c1bcca609e28d36fbfb5d.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/exploded-aar/io.intercom.android/intercom-sdk-base/1.1.16/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4102d054fbfd29d0f1575c476b4bb3023e6d44f0">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/classes-ba05cc336ee275657b3a44dddf3e3d2c8fcafdb3.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/libs/cardboard.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c3f82b1a4517f1d62a014512b9b3fd06af2987e8">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/cardboard-4b65f30094833a55ef5550b6971d03899cace9e5.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-9b668eb15fab2900aa5cd62d49fcf6696f3d207c.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/classes-e1d5b78c59d75f2f3403573a06ae3a2f3e0a9f12.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/classes-97ba992c69d8934fc61f29d3f94e0d76b8c57e84.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/classes-17e6cafa5f802f2a3100e86ea335d9da187f663d.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6-4408c1657384a7c2795dba32f393abb292f1e791.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/exploded-aar/io.intercom.android/intercom-sdk-base/1.1.16/jars/libs/repackaged_dependencies.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a96a18358b8af54a29e8ccb34265ca2eb073eef0">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/repackaged_dependencies-79a696f21cb651bf43507392f52655890ac836bf.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/classes-d61b51d31b197377535c442fec69f9cd3896de13.jar" />
+    </item>
+    <item
+        jar="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/surbhi/GitProjectsAndroidStudio/googlecardboard/app/build/intermediates/pre-dexed/debug/classes-5d0799b316fcb2ca0a95f13a8603cf47eab06c61.jar" />
+    </item>
+
+</items>
